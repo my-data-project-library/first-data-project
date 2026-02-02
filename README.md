@@ -1,4 +1,10 @@
 # first-data-project
+**📱 手机/电脑均可访问完整文件**
+
+## 快速导航
+- [📄 查看Power Query代码](电商数据分析.txt)
+- [📊 下载Excel项目文件](电商练习.xlsx)
+- [📂 在GitHub查看完整仓库](https://github.com/my-data-project-library/first-data-project
 data analysis
 # 电商销售数据分析项目
 这是我自学的第一个数据分析项目，使用Excel Power Query完成从原始数据清洗到业务分析的全流程。通过虚拟电商数据，实践了多表关联、异常值处理、业务逻辑建模等核心技能。
