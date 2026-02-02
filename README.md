@@ -10,8 +10,7 @@ data analysis
 
 ## 📁 文件说明
 - `ecommerce-analysis.pq` - 完整的Power Query清洗与分析代码
-- `data_sample.xlsx` - 脱敏后的样本数据（包含订单、商品、用户三表）
-- `电商练习.xlsx` - 原始项目文件（含完整数据和Power Query查询）
+- `电商练习.xlsx` - 原始项目文件（含完整数据和Power Query查询）、 脱敏后的样本数据（包含订单、商品、用户三表）
 
 ## 🎯 项目亮点
 1. **复杂数据清洗**：
